@@ -5,7 +5,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: `düşman, hasım, çekişmeli`
+ÖNERİ: `düşman, hasım, çekişmeli` 
 
 ## autoencoder
 - [ ] TÜBA
@@ -21,6 +21,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TDK
 
 ÖNERİ: `sınırlayıcı kutu`
+'sınırlayan kutu veya çerçeve'
 
 ## capsule
 - [x] TÜBA
@@ -33,6 +34,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TDK
 
 ÖNERİ: `bilgisayarlı görme, bilgisayarlı görü`
+'bilgisayarla görme, bilgisayarla görü'
 
 ## coarse grain
 - [x] TÜBA
@@ -54,6 +56,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 
 ÖNERİ: `evrişimli sinir ağları`
+'evrişimsel sinir ağları'
 
 ## collaborative Filtering
 - [ ] TÜBA
@@ -89,6 +92,7 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TDK
 
 ÖNERİ: `özyerleşik` - Hacettepe Unv. Multimedia Information Retrieval Lab önerisidir.
+'özyerleştirme, gömme'
 
 
 ## ensemble methods
@@ -163,6 +167,7 @@ Gradyan(yön türevi): Artımın en çok olduğu yere doğru yönelmiş bir vekt
 Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksiyonun gradyanının **negatifiyle** orantılı adımlar atılır.
 
 ÖNERİ:'Gradyan İnişi'
+'Gradyan Azaltımı'
 
 ## ground truth 
 - [ ] TÜBA
@@ -190,11 +195,12 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: `karakteristik nokta saptama`
+'karakteristik nokta bulma'
 
 ## latent concept 
 - [ ] TÜBA
 - [ ] TDK
-
+ÖNERİ: 'Gizli Kavram'
 
 ## lineer regression
 - [ ] TÜBA
@@ -208,12 +214,14 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: `yerseme (yerini saptama, lokalizasyon)`
+'Konumlandırma'
 
 ## local minimum
 - [ ] TÜBA
 - [ ] TDK
 
 ÖNERİ: yerel minimum
+'yerel en az'
 
 ## local maximum
 
@@ -221,6 +229,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: yerel maksimum
+'yerel en çok'
 
 
 ## logistic regression
@@ -228,6 +237,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: yapısal bağıntı
+'mantıksal bağıntı'
 
 
 ## long short term memory (LTSM)
@@ -235,6 +245,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: `Uzun-Kısa Vadeli Bellek`
+'Uzun-Kısa Dönemli Bellek/Hafıza'
 
 ## mean average precision
 - [ ] TÜBA
@@ -268,6 +279,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 **pooling** kelimesinin karşılığı TÜBA'da **ortaklama** olarak geçmektedir.
 
 ÖNERİ: `örnekleme`
+'havuzlama'
 
 ## predictor
 - [x] TÜBA
@@ -276,6 +288,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
  **predictor** TDK'da **yordamlayıcı** TÜBA'da **bağımsız değişken** şeklinde çevrilmiştir.
  
  ÖNERİ: `bağımsız değişken` 
+ 'tahmin edici, tahminleyici'
 
 
 
@@ -290,6 +303,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: doğrultulmuş lineer ünite
+'doğrultulmuş lineer birim'
 
 
 ## routing-by-agreement
@@ -328,6 +342,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: standartlaştırma, tek tip yapma
+'tek tipleştirme'
 
 
 ## tutorial
@@ -335,6 +350,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 - [ ] TDK
 
 ÖNERİ: Örnek uygulamalar, eğitim dökümanları
+'öğretici doküman'
 
 ## up sampling
 - [ ] TÜBA
@@ -350,6 +366,7 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 
 
 
+
 # SÖZLÜKTE YER ALAN FAKAT DEĞİŞTİRİLMESİ ÖNERİLENLER
 Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlükte yer almaktadır. Fakat ufak değişikliklerin yapılması gerekmektedir. 
 
@@ -360,6 +377,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 **bias** kelimesinin karşılığı TÜBA'da **yanlılık** olarak geçmektedir.
 
 ÖNERİ: yanlılık değeri
+'bozucu'
 
 
 ## condense
@@ -413,11 +431,12 @@ Bu sınıfların harf kısaltmaları aynı şekilde kullanılabilir. Doğal say�
 **semantics** kelimesinin karşılığı TÜBA'da **anlambilimsel ağ** olarak geçmektedir.
 
 ÖNERİ: Anlambilim
+'anlamsal bağ'
 
 
-RNN(Recurrent Nerual Network)
+RNN(Recurrent Neural Network)
 RNN 1980’ de geliştirildi. Makine Öğrenmesinde Derin Öğrenme algoritmalarında biri olarak kullanılır. Tanım olarak
 , ardışık bilgileri kullanan modeldir. Kullanım Alanları; Konuşma tanıma, Makine Çevirisi vb.
 ÖNERİ: "Tekrarlayan Sinir Ağları"
-
+'yinelemeli sinir ağı' 
 
